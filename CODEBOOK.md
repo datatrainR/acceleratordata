@@ -13,6 +13,9 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ## Variables in Dataset
 
+### Data
+The dataset contains 81 variables and 180 observations: one observation per subject (30) and activity (6)
+
 ### Transformations
 These transformations were applied
 1. The data which was devided into a training and a test set were combined to one dataset
