@@ -1,4 +1,4 @@
-#Codebook
+# Codebook
 ## Data Origin
 The data in tidydata.txt originates from the "Human Activity Recognition Using Smartphones Data Set"
 It contains data gathered from accelerometers on smartphones :running_shirt_with_sash: :running_shirt_with_sash: :running_shirt_with_sash: :running_shirt_with_sash:
