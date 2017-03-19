@@ -15,6 +15,7 @@ This repository contains the following files:
 
 * run_analysis.R	This is the workhorse-script which downloads and processes data and generates the final tidy dataset "tidydata.txt"
 * CODEBOOK.MD		The codebook describes the variables in tidydata and the transformations applied in the process of tidying the data
+* tidydata.txt  The sought after tidyied dataset
 
 ## Notice on use of R-script
 As the file download is automated, the user **only needs to change the working directory path** to his own system
