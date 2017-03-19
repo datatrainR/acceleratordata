@@ -24,7 +24,7 @@ These transformations were applied
 4. Appropriate (human-readable) labels were given to the variable names
 5. The data was collapsed to only include the average per subject and activity
 
-### Variable names
+### Variable naming
 
 * subject describes the subject ID
 * activity is one of the 6 recorded activities: LAYING SITTING STANDING WALKING WALKING_DOWNSTAIRS WALKING_UPSTAIRS
